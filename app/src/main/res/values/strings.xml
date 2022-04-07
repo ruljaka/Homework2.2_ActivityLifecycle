@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Homework2.2_ActivityLifecycle</string>
+    <string name="btn_count_label">count</string>
 </resources>
